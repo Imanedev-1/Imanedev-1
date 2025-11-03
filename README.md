@@ -56,6 +56,5 @@
 
 ---
 
-💬 *“Le code est bien plus qu’un métier, c’est une façon de penser.”*  
 
 ⭐ **N’hésite pas à visiter mes projets ou à me contacter pour collaborer !**
