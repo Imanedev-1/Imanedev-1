@@ -15,6 +15,7 @@
 📫 **Contact** : [belouarratimane4@gmail.com](mailto:belouarratimane4@gmail.com)  
 🔗 **LinkedIn** : [Imane Belouarrat](https://www.linkedin.com/in/imane-belouarrat-b728a3340)  
 📸 **Instagram** : [@ima11____](https://www.instagram.com/ima11____)  
+📄 **Mon CV** : [Télécharger ici](https://github.com/Imanedev-1/imanedev-1/blob/main/CV Imane belouarrat Full stack developer.pdf)
 
 ---
 
