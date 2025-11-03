@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis **Imane Belouarrat**  
+# 👋 Bonjour, je suis **Imane**  
 ### 💻 Développeuse Web Full Stack passionnée par la création d’applications **modernes, intuitives et performantes**  
 
 ---
